@@ -1,0 +1,11 @@
+@keyframes color {
+    from {color: #089aad;}
+    to {color: #d00404;}
+}
+#textofsunset {
+  color: red;
+  animation-name: color;
+  animation-iteration-count: 2;
+  cursor:none;
+  animation-duration: 4s;
+}
